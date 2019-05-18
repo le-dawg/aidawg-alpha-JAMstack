@@ -3,11 +3,11 @@ title: "AIDAWG"
 subtitle: Musings on AI and ML for Automation
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: What's this?
-    text: "A minimalist website built on the JAMStack. It will soon be a blog/portfolio page for @d8adawg."
+    heading: Why Kaldi?
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
-    heading: "Is the JAMStack the future of the web?"
-    text: "No. It's too bothersome to use. Like most web technologies. The UX/UI quantum leap is yet to come for the web2 - same goes for the web3."
+    heading: "What we offer"
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
