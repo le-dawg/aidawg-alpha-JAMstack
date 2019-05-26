@@ -1,13 +1,13 @@
 ---
 title: "AIDAWG"
 subtitle: Musings on AI and ML for Automation
-image: /img/home-jumbotron.jpg
+image: /img/robotech_dawid.png
 blurb:
     heading: What's this?
     text: "A minimalist website built on the JAMStack. It will soon be a blog/portfolio page for @d8adawg."
 intro:
     heading: "Is the JAMStack the future of the web?"
-    text: "No. It's too bothersome to use. Like most web technologies. The UX/UI quantum leap is yet to come for the web2 - same goes for the web3."
+    text: "Not yet. It's too bothersome to use. Like most web technologies. The UX/UI quantum leap is yet to come for the web2."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."

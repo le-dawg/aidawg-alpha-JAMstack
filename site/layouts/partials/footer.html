@@ -50,6 +50,14 @@
 
 {{ partial "svg" . }}
 
+			<div class="social-icon">
+					<ul class="list-inline">
+						{{ range .Site.Params.footer.socialIcon }}
+            <li><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>
+
 <script src="/app.js"></script>
 
 </body>
