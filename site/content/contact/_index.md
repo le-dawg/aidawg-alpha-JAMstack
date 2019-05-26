@@ -3,9 +3,9 @@ title: "Contact"
 logo: ""
 contact_entries:
   - heading: Location
-    text: "Continental Europe"
+    text: "EU & the EEA"
   - heading: Availability
-    text: "Booked until October 2019"
+    text: "Part-time projects/consultancy & Speaking only (until October 2019)"
 ---
 
 <h3 class="f4 b lh-title mb2">How can I ... ?</h3>
