@@ -1,10 +1,10 @@
 ---
 title: "AIDAWG"
-subtitle: Musings on AI and ML for Automation
+subtitle: Musings on AI and ML
 image: /img/robotech_dawid.png
 blurb:
     heading: What's this?
-    text: "A minimalist website built on the JAMStack. It will soon be a blog/portfolio page for @d8adawg."
+    text: "A minimalist prototype website built on the JAMStack. It will soon be superseded by a blog/portfolio page for @d8adawg and _Gatsby_ with _Contentful_."
 intro:
     heading: "Is the JAMStack the future of the web?"
     text: "Not sure yet."
