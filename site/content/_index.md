@@ -1,6 +1,6 @@
 ---
 title: "AIDAWG"
-subtitle: Musings on AI and ML
+subtitle: Real-world inspired musings on AI and ML
 image: /img/robotech_dawid.png
 blurb:
     heading: What's this?
